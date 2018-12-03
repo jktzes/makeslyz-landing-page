@@ -1,7 +1,3 @@
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
 - name: Contact
   link: 'mailto:hello@makeslyz.com'
   new_window: false
