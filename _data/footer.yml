@@ -1,6 +1,6 @@
 - links:
   - name: Contact
-    link: /contact/
+    link: 'mailto:hello@makeslyz.com'
 - links:
   - name: Join Waitlist
     link: '#waitlist'
